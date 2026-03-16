@@ -1,0 +1,7 @@
+MetaTrader5>=5.0.5488
+pandas>=2.2.0
+numpy>=1.26.0
+requests>=2.32.0
+python-dotenv>=1.0.0
+schedule>=1.2.0
+colorama>=0.4.6
